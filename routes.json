@@ -1,0 +1,44 @@
+[
+  {
+    "name": "manage",
+    "path": "/manage",
+    "component": "E:\\\\solana-discord-verification-bot-main\\\\pages\\\\manage.vue",
+    "chunkName": "pages/manage",
+    "_name": "_07aaedef"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "E:\\\\solana-discord-verification-bot-main\\\\pages\\\\projects\\\\index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_138945fe"
+  },
+  {
+    "name": "twitter-callback",
+    "path": "/twitter/callback",
+    "component": "E:\\\\solana-discord-verification-bot-main\\\\pages\\\\twitter\\\\callback.vue",
+    "chunkName": "pages/twitter/callback",
+    "_name": "_12aea55e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\solana-discord-verification-bot-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5fe673b8"
+  },
+  {
+    "name": "project",
+    "path": "/:project",
+    "component": "E:\\\\solana-discord-verification-bot-main\\\\pages\\\\_project\\\\index.vue",
+    "chunkName": "pages/_project/index",
+    "_name": "_1c225ec4"
+  },
+  {
+    "name": "project-sales",
+    "path": "/:project/sales",
+    "component": "E:\\\\solana-discord-verification-bot-main\\\\pages\\\\_project\\\\sales.vue",
+    "chunkName": "pages/_project/sales",
+    "_name": "_1d1743d8"
+  }
+]
